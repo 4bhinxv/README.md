@@ -1,5 +1,5 @@
 -   Hi, I’m @anxietyzip
-    also named as Abhinav
+    also named as Abhinav AJ
     
 -   I’m interested in Web developing and       Coding
 
@@ -9,7 +9,7 @@
   
 - You can contact me through WhatsApp or     Instagram
 
-- If any collaboration or any urgent         matters. Just set an e-mail to me
+- If any collaboration or any urgent         matters. Just sent me an e-mail
 
 <!---
 anxietyzip/anxietyzip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
