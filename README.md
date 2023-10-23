@@ -36,7 +36,8 @@ No Activity Tracked This Week
 💻 Operating System: 
 MacOS-BigSur, Windows11-Beta, Mint-Linux
  
-
+<p dir="auto"><a href="https://youtu.be/qpDeM1pjbJw" rel="nofollow"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Run on Repl.it" style="max-width: 100%;"></a></p>
+ <div align="left" dir="auto">
 <!---
 anxietyzip/anxietyzip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
