@@ -38,6 +38,10 @@ MacOS-BigSur, Windows11-Beta, Mint-Linux
  
 <p dir="auto"><a href="https://anxietyzip.github.io/" rel="nofollow"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Run on Repl.it" style="max-width: 100%;"></a></p>
  <div align="left" dir="auto">
+  
+ <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4fdc86993af5ebd4ef4432820f7c69a8408981a17c1b7680c567e103a18d4857/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416c69656e2d616c6661267468656d653d6e696768746f776c"><img align="center" src="https://camo.githubusercontent.com/4fdc86993af5ebd4ef4432820f7c69a8408981a17c1b7680c567e103a18d4857/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416c69656e2d616c6661267468656d653d6e696768746f776c" alt="Alien-alfa" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Alien-alfa&amp;theme=nightowl" style="max-width: 100%;"></a></p>
+ </div>
+<div align="center" dir="auto">
 <!---
 anxietyzip/anxietyzip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
