@@ -16,7 +16,7 @@
 
 
 
-    ##    know more about me <a href="https://anxietyzip.github.io/"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=personal&message=PORTFOLIO&color=blue"></a>
+    ##    Know more about me <a href="https://anxietyzip.github.io/"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=personal&message=PORTFOLIO&color=blue"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
