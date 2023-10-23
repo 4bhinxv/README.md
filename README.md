@@ -1,47 +1,27 @@
- ![My card name](https://cardivo.vercel.app/api?name=4nx13ty&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/136873229?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_4nx13ty__&github=4nx13tyzip&twitter=&pattern=leaf&colorPattern=%23eaeaea)
-
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pepesir&label=Profile%20views&color=0e75b6&style=flat" alt="4nx13ty" /> </p>
-
-- 🔭 I’m currently working on web designing
-
-- 🌱 I’m currently learning **java** and **c++**
-
-- 🤝 I'm currently studying in ST THOMAS HSS THANKAMANI (India-Kerala)
-
-- 📫 You can contact me through any of the platforms given below 
-
-- 💬 Ask me about my future projects 👽
+# 💫 About Me:
+- 🔭 I’m currently working on web designing<br><br>- 🌱 I’m currently learning **java** and **c++**<br><br>- 🤝 I'm currently studying in ST THOMAS HSS THANKAMANI (India-Kerala)<br><br>- 📫 You can contact me through any of the platforms given below <br><br>- 💬 Ask me about my future projects 👽
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhinav.achu.31508) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_4nx13ty__) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/4nx13tyzipp) 
 
-    ##    Know more about me <a href="https://anxietyzip.github.io/"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=personal&message=PORTFOLIO&color=blue"></a>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=Ionic&logoColor=white) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=flat&logo=meteor&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat&logo=solid&logoColor=c8c9cb) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=flat&logo=xamarin&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=Apache%20Flink&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat&logo=Apache%20Ant&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat&logo=affinity-photo&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhinav-26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-26&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_4nx13ty__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepe.sir_" height="30" width="40" /></a> <a href="https://wa.me/message/WUGGOUCK7U4OL1?src=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="pepe.sir_" height="30" width="40" /></a> <a href="https://github.com/anxietyzip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pepe.sir_" height="30" width="40" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhinav-26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p dir="auto">📊 <strong>This Week I Spent My Time On</strong></p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>⌚︎ Time Zone:
-Asia/Kolkata
-<p align="down">
-💬 Programming Languages: 
-CSS, JavaScript, PHP
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abhinav-26&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-🔥 Editors: 
-No Activity Tracked This Week
+---
+[![](https://visitcount.itsvg.in/api?id=Abhinav-26&icon=3&color=0)](https://visitcount.itsvg.in)
 
-💻 Operating System: 
-MacOS-BigSur, Windows11-Beta, Mint-Linux
- 
-<p dir="auto"><a href="https://anxietyzip.github.io/" rel="nofollow"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Run on Repl.it" style="max-width: 100%;"></a></p>
- <div align="left" dir="auto">
-  
- <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4fdc86993af5ebd4ef4432820f7c69a8408981a17c1b7680c567e103a18d4857/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416c69656e2d616c6661267468656d653d6e696768746f776c"><img align="center" src="https://camo.githubusercontent.com/4fdc86993af5ebd4ef4432820f7c69a8408981a17c1b7680c567e103a18d4857/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416c69656e2d616c6661267468656d653d6e696768746f776c" alt="Alien-alfa" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Alien-alfa&amp;theme=nightowl" style="max-width: 100%;"></a></p>
- </div>
-<div align="center" dir="auto">
-<!---
-anxietyzip/anxietyzip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
