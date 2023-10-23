@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on web designing<br><br>- 🌱 I’m currently learning **java** and **c++**<br><br>- 🤝 I'm currently studying in ST THOMAS HSS THANKAMANI (India-Kerala)<br><br>- 📫 You can contact me through any of the platforms given below <br><br>- 💬 Ask me about my future projects 👽
 
 <div align="center" dir="auto">
-<p dir="auto"><a href="https://youtu.be/qpDeM1pjbJw" rel="nofollow"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Run on Repl.it" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://anxietyzip.github.io/" rel="nofollow"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Run on Repl.it" style="max-width: 100%;"></a></p>
  <div align="left" dir="auto">
 
 ## 🌐 Socials:
