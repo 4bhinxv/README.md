@@ -22,6 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Abhinav-26&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8370063ac6f69f86a521e20cc6384abb9d46c81886853becc15f4456f06c4c2f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416c69656e2d616c6661266c6162656c3d50726f66696c65253230766965777326636f6c6f723d666636396234266c6162656c3d50726f66696c652b5669657773267374796c653d706c6173746963"><img src="https://camo.githubusercontent.com/8370063ac6f69f86a521e20cc6384abb9d46c81886853becc15f4456f06c4c2f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416c69656e2d616c6661266c6162656c3d50726f66696c65253230766965777326636f6c6f723d666636396234266c6162656c3d50726f66696c652b5669657773267374796c653d706c6173746963" data-canonical-src="https://komarev.com/ghpvc/?username=Alien-alfa&amp;label=Profile%20visitors%20count&amp;color=ff69b4&amp;label=Profile+visitors+count&amp;style=plastic" style="max-width: 100%;"></a></p>
+
+![ alt text ](https://img.shields.io/badge/Profile%20visitors%20count-11,956-00FFFF?style=for-the-badge&logo=Quicklook)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
