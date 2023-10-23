@@ -3,6 +3,9 @@
 # 💫 About Me:
 - 🔭 I’m currently working on web designing<br><br>- 🌱 I’m currently learning **java** and **c++**<br><br>- 🤝 I'm currently studying in ST THOMAS HSS THANKAMANI (India-Kerala)<br><br>- 📫 You can contact me through any of the platforms given below <br><br>- 💬 Ask me about my future projects 👽
 
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://youtu.be/qpDeM1pjbJw" rel="nofollow"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Run on Repl.it" style="max-width: 100%;"></a></p>
+ <div align="left" dir="auto">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhinav.achu.31508) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_4nx13ty__) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/4nx13tyzipp) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366svg?logo=WhatsApp&logoColor=green)](https://wa.me/+918590284271?text=Hey👋🏻+I+find+this+number+from+your+website) [![Github](https://img.shields.io/badge/Portfolio-%234D4D4D.svg?logo=Github&logoColor=white)](https://anxietyzip.github.io/)
@@ -27,4 +30,5 @@
 
 ![ alt text ](https://img.shields.io/badge/Profile%20visitors%20count-11,956-00FFFF?style=for-the-badge&logo=Quicklook)
 
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
