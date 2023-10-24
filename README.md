@@ -1,7 +1,8 @@
 ![My card name](https://cardivo.vercel.app/api?name=4nx13ty&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/136873229?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_4nx13ty__&github=anxietyzip&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 # 💫 About Me:
-- 🔭 I’m currently working on web designing<br><br>- 🌱 I’m currently learning **java** and **c++**<br><br>- 🤝 I'm currently studying in ST THOMAS HSS THANKAMANI (India-Kerala)<br><br>- 📫 You can contact me through any of the platforms given below <br><br>- 💬 Ask me about my future projects 👽
+-👋🏻 Hi, Im Abhinav AJ<br>-❎ I am just a student (still learning)<br>-🪄 17 years old<br>-🇮🇳 Currently living in India, Kerala (southwestern coastal state of India)<br>-👀 I'm interested in JavaScript, HTML, PHP, CPP, c and Python<br>-🌱 I'm currently studying Business Studies, Accountancy, Economics,Computer Applications at ST THOMAS HSS Thankamani (Kerala)<br>-🫧 I'm looking to collaborate on WhatsApp bots, AI, Web design, 
+
 
 <div align="center" dir="auto">
 <p dir="auto"><a href="https://anxietyzip.github.io/" rel="nofollow"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Run on Repl.it" style="max-width: 100%;"></a></p>
