@@ -1,15 +1,15 @@
-![My card name](https://cardivo.vercel.app/api?name=4nx13ty&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/136873229?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_4nx13ty__&github=anxietyzip&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Abhinav%20AJ&description=Hi,%20Welcome%20To%20My%20Profile%20❤️‍🩹&image=https://avatars.githubusercontent.com/u/136873229?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=am.abhinxv&github=4bhinxv&twitter=am_abhinxv&pattern=leaf&colorPattern=%23eaeaea)
 
 # 💫 About Me:
--👋🏻 Hi, Im Abhinav AJ<br>-❎ I am just a student (still learning)<br>-🪄 17 years old<br>-🇮🇳 Currently living in India, Kerala (southwestern coastal state of India)<br>-👀 I'm interested in 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗛𝗧𝗠𝗟, 𝗣𝗛𝗣, 𝗖𝗣𝗣, 𝗰 and 𝗣𝘆𝘁𝗵𝗼𝗻<br>-🌱 I'm currently studying Business Studies, Accountancy, Economics,Computer Applications at ST THOMAS HSS Thankamani (Kerala)<br>-🫧 I'm looking to collaborate on WhatsApp bots, AI, Web design, 
+-👋🏻 Hi, Im Abhinav AJ<br>-❎ I am just a student (still learning)<br>-🪄 18 years old<br>-🇮🇳 Currently living in India, Kerala (southwestern coastal state of India)<br>-👀 I'm interested in 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗛𝗧𝗠𝗟, 𝗣𝗛𝗣, 𝗖𝗣𝗣, 𝗰 and 𝗣𝘆𝘁𝗵𝗼𝗻<br>-🌱 I'm currently studying Business Studies, Accountancy, Economics,Computer Applications at ST THOMAS HSS Thankamani (Kerala)<br>-🫧 I'm looking to collaborate on WhatsApp bots, AI, Web design, 
 
 
 <div align="center" dir="auto">
-<p dir="auto"><a href="https://anxietyzip.github.io/" rel="nofollow"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Run on Repl.it" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://4bhinxv.github.io/" rel="nofollow"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Run on Repl.it" style="max-width: 100%;"></a></p>
  <div align="left" dir="auto">
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_4nx13ty__) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhinav.achu.31508) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366svg?logo=WhatsApp&logoColor=green)](https://wa.me/+918590284271?text=Hey👋🏻+I+find+this+number+from+your+website) [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.net/@_4nx13ty__) [![Github](https://img.shields.io/badge/Portfolio-%234D4D4D.svg?logo=Github&logoColor=white)](https://anxietyzip.github.io/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/4nx13tyzipp)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/am.abhinxv) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/am.abhinxv) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366svg?logo=WhatsApp&logoColor=green)](https://wa.me/+918590284271?text=Hey👋🏻+I+find+this+number+from+your+website) [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.net/@am.abhinxv) [![Github](https://img.shields.io/badge/Portfolio-%234D4D4D.svg?logo=Github&logoColor=white)](https://4bhinxv.github.io/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/4nx13tyzipp)
 
 ## 🎧 Vibing to Tunes
 <div>
