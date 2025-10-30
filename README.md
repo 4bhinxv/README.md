@@ -1,7 +1,7 @@
 ![My card name](https://cardivo.vercel.app/api?name=Abhinav%20AJ&description=Hi,%20Welcome%20To%20My%20Profile%20❤️‍🩹&image=https://avatars.githubusercontent.com/u/136873229?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=am.abhinxv&github=4bhinxv&twitter=am_abhinxv&pattern=leaf&colorPattern=%23eaeaea)
 
 # 💫 About Me:
--👋🏻 Hi, Im Abhinav AJ<br>-❎ I am just a student (still learning)<br>-🪄 18 years old<br>-🇮🇳 Currently living in India, Kerala (southwestern coastal state of India)<br>-👀 I'm interested in 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗛𝗧𝗠𝗟, 𝗣𝗛𝗣, 𝗖𝗣𝗣, 𝗰 and 𝗣𝘆𝘁𝗵𝗼𝗻<br>-🌱 I'm currently studying Business Studies, Accountancy, Economics,Computer Applications at STHSS (Kerala)<br>-🫧 I'm looking to collaborate on WhatsApp bots, AI, Web design, 
+-👋🏻 Hey, Im Abhinav AJ<br>-❎ I am just a student (still learning)<br>-🪄 20 years old<br>-🇮🇳 Currently living in India, Kerala (southwestern coastal state of India)<br>-👀 I'm interested in 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗛𝗧𝗠𝗟, 𝗣𝗛𝗣, 𝗖𝗣𝗣, 𝗰 and 𝗣𝘆𝘁𝗵𝗼𝗻<br>-🌱 I'm currently studying Integrated MA ENGLISH,Literature under MGU (Kerala)<br>-🫧 I'm looking to collaborate on WhatsApp bots, AI, Web design, 
 
 
 <div align="center" dir="auto">
